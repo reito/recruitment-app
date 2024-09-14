@@ -2,5 +2,6 @@
 
 〜技術スタック〜
 ・React / TypeScript
+・Rail(APIモード)
 ・Tailwind CSS
 ・Vercel
